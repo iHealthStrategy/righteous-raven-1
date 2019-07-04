@@ -1,5 +1,5 @@
 {
-    "name": "righteous-raven",
+    "name": "@strategy/righteous-raven",
     "version": "1.0.6",
     "description": "If you has connection with righteous-raven, you should use it.",
     "main": "index.js",
