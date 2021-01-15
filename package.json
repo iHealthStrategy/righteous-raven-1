@@ -1,6 +1,6 @@
 {
     "name": "@strategy/righteous-raven",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "If you has connection with righteous-raven, you should use it.",
     "main": "index.js",
     "scripts": {
@@ -8,14 +8,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/sirius1024/righteous-raven.git"
+        "url": "git+https://github.com/iHealthStrategy/righteous-raven-1"
     },
     "author": "sirius <cealer@foxmail.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/sirius1024/righteous-raven/issues"
+        "url": "https://github.com/iHealthStrategy/righteous-raven-1"
     },
-    "homepage": "https://github.com/sirius1024/righteous-raven#readme",
+    "homepage": "https://github.com/iHealthStrategy/righteous-raven-1#readme",
     "dependencies": {
         "request": "^2.81.0",
         "request-promise": "^4.2.1"
